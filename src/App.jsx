@@ -4,7 +4,7 @@ import slack from './assets/slack.png';
 import KodeCamp from './assets/kodecamplogo.png';
 import KodeHauz from './assets/kodeHauzLogo.png';
 import share from './assets/share.png';
-import shareMobile from './assets/shareMobile.png'
+import shareMobile from './assets/shareMobile.png';
 import './App.css';
 import './index.css';
 
